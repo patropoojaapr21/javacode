@@ -1,7 +1,7 @@
 package pooja;
 
 /**
- * Hello world!
+ * Hello world of Jenkins!
  *
  */
 public class App 
